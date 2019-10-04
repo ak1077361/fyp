@@ -1,1 +1,2 @@
-console.log("Khan");
+const sum = (a, b) => a + b;
+const sum = (a, b) => a + b;
