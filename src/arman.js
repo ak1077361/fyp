@@ -1,1 +1,1 @@
-console.log("ARman");
+const sum = (a, b) => a + b;
